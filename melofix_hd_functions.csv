@@ -1,2 +1,3 @@
 ;alias;target;tab;group;matplotlib;mayavi;dependencies;module;pkg_name;func_args
 melofix_event_handling;;MEEG;Compute;Melofix;False;False;;melofix;melofix_hd;meeg
+melofix_event_handling_updown;;MEEG;Compute;Melofix;False;False;;melofix;melofix_hd;meeg
